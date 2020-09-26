@@ -23,7 +23,7 @@ I am currently a **Software Engineer intern** with Queens Web (https://www.queen
 
 - 👨🏽‍💻 Check out my [Portfolio](https://ccurry20.github.io/portfolio-website/#);
 - 📝 I’m currently learning Full Stack web development at Lambda School (https://lambdaschool.com/courses/full-stack-web-development); 
-- 🤔 Skills Include: • VISUAL STUDIO •	HTML •	CSS •	JAVASCRIPT •	REACT •	NODE.JS •	PYTHON •	GOOGLE ADS  •	WORDPRESS •	KNEX •	EXPRESS •	POSTGRES •	FIGMA  •	HEROKU
+- 🤔 Skills Include: • VISUAL STUDIO •	HTML •	CSS •	JAVASCRIPT •	REACT •	NODE.JS •	PYTHON •	REACT NATIVE  •	REDUX •	KNEX •	EXPRESS •	POSTGRES •	FIGMA  •	HEROKU
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ccurry20@gmail.com to reach me.
 
