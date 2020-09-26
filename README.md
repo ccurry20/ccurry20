@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Carolina.  I am currently completing a full stack web development coding program with Lambda School, and over the course of a 13-year career, have completed an I.T. degree with concentration in Computer programming, 3.5 years of Computer Science studies with Voorhees College and Western Governor's University, and Web Master (CIW) and Project management certifications (CompTIA). 👨🏽‍💻
+Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Carolina.  I am a recent graduate of a full stack web development coding program with Lambda School, and over the course of a 13-year career, have completed an I.T. degree with concentration in Computer programming, 3.5 years of Computer Science studies with Voorhees College and Western Governor's University, and Web Master (CIW) and Project management certifications (CompTIA). 👨🏽‍💻
 
 I am currently a **Software Engineer intern** with Queens Web (https://www.queensweb.org/) 🙍🏽‍♂️ and have worked as both a Project Coordinator and Provisioning Specialist in the telecommunications industry and previously interned as a Software Engineer for The USDA.   👨🏽‍💻
 
