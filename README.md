@@ -17,7 +17,7 @@ Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Ca
 
 I am currently a **Software Engineer intern** with Queens Web (https://www.queensweb.org/) 🙍🏽‍♂️ and have worked as both a Project Coordinator and Provisioning Specialist in the telecommunications industry and previously interned as a Software Engineer for The USDA.   👨🏽‍💻
 
-  <img align="right" alt="GIF" width="500px" src="https://www.facebook.com/photo/?fbid=3404686549586367&set=a.344598302261889" />
+  <img align="right" alt="GIF" width="500px" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/123067348_3404686552919700_2814396965730191232_n.jpg?_nc_cat=108&ccb=2&_nc_sid=e3f864&_nc_ohc=ZDb2jLnqDZMAX8cGXLl&_nc_ht=scontent-atl3-1.xx&oh=d68f5eea0f831b199e408fbe8cac4a7c&oe=6015632F9" />
 
 **About Me:**
 
