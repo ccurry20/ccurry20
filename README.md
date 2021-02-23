@@ -13,16 +13,17 @@
 <br />
 <br />
 
-Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Carolina.  I am a recent graduate of a full stack web development coding program with Lambda School, and over the course of a 13-year career, have completed an I.T. degree with concentration in Computer programming, 3.5 years of Computer Science studies with Voorhees College and Western Governor's University, and Web Master (CIW) and Project management certifications (CompTIA). 👨🏽‍💻
+Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Carolina.  I am a recent graduate of a full stack web development coding program with Lambda School, and over the course of a 13-year career, have completed an I.T. degree with concentration in Computer programming, 3.5 years of Computer Science studies with Voorhees College and Western Governor's University, and Web Design Specialist (CIW) and Project management certifications (CompTIA Project+). 👨🏽‍💻
 
-I am currently a **Software Engineer intern** with Queens Web (https://www.queensweb.org/) 🙍🏽‍♂️ and have worked as both a Project Coordinator and Provisioning Specialist in the telecommunications industry and previously interned as a Software Engineer for The USDA.   👨🏽‍💻
+I am currently a **Software Engineer intern** with Queens Web (https://www.queensweb.org/) 🙍🏽‍♂️ and worked as a **Jr. Software Engineer** for Trace (https://tracevt.com/). I have also worked as both a Project Coordinator and Provisioning Specialist in the telecommunications industry for over 10+ years and previously interned as a Software Engineer for The USDA.   👨🏽‍💻
 
   <img align="right" alt="GIF" width="500px" src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/123067348_3404686552919700_2814396965730191232_n.jpg?_nc_cat=108&ccb=2&_nc_sid=e3f864&_nc_ohc=ZDb2jLnqDZMAX8cGXLl&_nc_ht=scontent-atl3-1.xx&oh=d68f5eea0f831b199e408fbe8cac4a7c&oe=6015632F9" />
 
 **About Me:**
 
 - 👨🏽‍💻 Check out my [Portfolio](https://ccurry20.github.io/portfolio-website/#);
-- 📝 I’m currently learning Full Stack web development at Lambda School (https://lambdaschool.com/courses/full-stack-web-development); 
+- 📝 I recently completed a Full Stack web development coding camp at Lambda School (https://lambdaschool.com/courses/full-stack-web-development); 
+- 📝 I am currently an Associate Jr. Java Developer in training with Mthree  (https://www.mthree.com/); 
 - 🤔 Skills Include: • VISUAL STUDIO •	HTML •	CSS •	JAVASCRIPT •	REACT •	NODE.JS •	PYTHON •	REACT NATIVE  •	REDUX •	KNEX •	EXPRESS •	POSTGRES •	FIGMA  •	HEROKU
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ccurry20@gmail.com to reach me.
