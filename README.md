@@ -17,9 +17,9 @@ Hi! I'm **Carmen Salley**, a **Full Stack Software Engineer** 🚀 from South Ca
 
 I am currently a **Software Engineer intern** with Queens Web (https://www.queensweb.org/) 🙍🏽‍♂️ and worked as a **Jr. Software Engineer** for Trace (https://tracevt.com/). I have also worked as both a Project Coordinator and Provisioning Specialist in the telecommunications industry for over 10+ years and previously interned as a Software Engineer for The USDA.   👨🏽‍💻
 
-<kbd>
+
   <img align="right" alt="PIC" width="500px" src="https://github.com/ccurry20/ccurry20/blob/master/118845778_10160308027648696_4101096598859021993_n.jpg" />
-  </kbd>
+
 
 **About Me:**
 
