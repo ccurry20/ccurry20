@@ -24,7 +24,7 @@ I am currently a **Software Engineer intern** with Queens Web (https://www.queen
 - 👨🏽‍💻 Check out my [Portfolio](https://ccurry20.github.io/portfolio-website/#);
 - 📝 I recently completed a Full Stack web development coding camp at Lambda School (https://lambdaschool.com/courses/full-stack-web-development); 
 - 📝 I am currently an Associate Jr. Java Developer in training with Mthree  (https://www.mthree.com/); 
-- 🤔 Skills Include: • VISUAL STUDIO •	HTML •	CSS •	JAVASCRIPT •	REACT •	NODE.JS •	PYTHON •	REACT NATIVE  •	REDUX •	KNEX •	EXPRESS •	POSTGRES •	FIGMA  •	HEROKU
+- 🤔 Skills Include: • VISUAL STUDIO •	HTML •	CSS •	JAVASCRIPT •	REACT •	NODE.JS •	PYTHON •	REACT NATIVE  •	REDUX •	KNEX •	EXPRESS •	POSTGRES •	FIGMA  •	HEROKU • JAVA  • SPRINGBOOT  • INTELLIJ  •  MYSQL  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ccurry20@gmail.com to reach me.
 
